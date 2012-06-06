@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- villesDocument.xml -->
+<villes>
+    <ville>
+        <cp>75011</cp>
+        <nom_ville>Paris 11</nom_ville>
+    </ville>
+    <ville>
+        <cp>75012</cp>
+        <nom_ville>Paris 12</nom_ville>
+    </ville>
+    <ville>
+        <cp>13000</cp>
+        <nom_ville>Marseille</nom_ville>
+    </ville>
+    <ville>
+        <cp>33000</cp>
+        <nom_ville>Bordeaux</nom_ville>
+    </ville>
+    <ville>
+        <cp>59000</cp>
+        <nom_ville>Lille</nom_ville>
+    </ville>
+    <ville>
+        <cp>78000</cp>
+        <nom_ville>Versailles</nom_ville>
+    </ville>
+</villes>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- paysDocument.xml -->
+<pays>
+	<pay id_pays='002' nom_pays='Canada' />
+	<pay id_pays='0020' nom_pays='Egypte' />
+	<pay id_pays='033' nom_pays='France' />
+	<pay id_pays='036' nom_pays='Hongrie' />
+	<pay id_pays='039' nom_pays='Italie' />
+	<pay id_pays='044' nom_pays='Royaume Uni' />
+	<pay id_pays='001' nom_pays='US' />
+</pays>
